@@ -9,5 +9,6 @@ int main() {
 	cin >> a;
 	cout << "变量a的值为：" << a << endl;
 
+
 	system("pause");
 }
