@@ -142,6 +142,7 @@
     <ClCompile Include="01基础数据类型.cpp" />
     <ClCompile Include="02.cpp" />
     <ClCompile Include="03.cpp" />
+    <ClCompile Include="04.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
