@@ -24,6 +24,15 @@
     <ClCompile Include="02指针.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="03const指针.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="04指针数组.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="05结构体.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="swap.h">

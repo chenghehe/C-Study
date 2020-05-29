@@ -141,6 +141,9 @@
   <ItemGroup>
     <ClCompile Include="01函数.cpp" />
     <ClCompile Include="02指针.cpp" />
+    <ClCompile Include="03const指针.cpp" />
+    <ClCompile Include="04指针数组.cpp" />
+    <ClCompile Include="05结构体.cpp" />
     <ClCompile Include="swap.cpp" />
   </ItemGroup>
   <ItemGroup>
