@@ -42,6 +42,12 @@
     <ClCompile Include="08构造函数初始化列表.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="09静态成员函数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="10成员变量和成员函数分开存储.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Student.h">
