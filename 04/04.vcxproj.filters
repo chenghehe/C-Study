@@ -18,5 +18,14 @@
     <ClCompile Include="01this指针.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="02空指针调用成员函数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="03const修饰成员函数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="04全局函数做元友.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

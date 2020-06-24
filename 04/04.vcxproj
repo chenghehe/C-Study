@@ -140,6 +140,9 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="01this指针.cpp" />
+    <ClCompile Include="02空指针调用成员函数.cpp" />
+    <ClCompile Include="03const修饰成员函数.cpp" />
+    <ClCompile Include="04全局函数做元友.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
