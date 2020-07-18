@@ -15,22 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="01this指针.cpp">
+    <ClCompile Include="01继承.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="02空指针调用成员函数.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="03const修饰成员函数.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="04全局函数做元友.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="05成员函数做友元.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="06运算符重载.cpp">
+    <ClCompile Include="02同名成员处理.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
