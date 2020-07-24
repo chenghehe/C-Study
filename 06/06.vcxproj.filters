@@ -15,25 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="01继承.cpp">
+    <ClCompile Include="01函数模板的基本语法.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="02同名成员处理.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="03菱形继承问题以及解决方案.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="04多态语法.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="05多态——计算器案例.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="06抽象类.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="07虚析构和纯虚析构.cpp">
+    <ClCompile Include="02函数模板的注意事项.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

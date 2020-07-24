@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{ea037b45-43f8-43b8-b9f0-cd1fd8bb5068}</ProjectGuid>
-    <RootNamespace>My05</RootNamespace>
+    <ProjectGuid>{47b16b8c-d604-4858-a474-aa9e4fdcb2d9}</ProjectGuid>
+    <RootNamespace>My06</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -139,13 +139,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="01继承.cpp" />
-    <ClCompile Include="02同名成员处理.cpp" />
-    <ClCompile Include="04多态语法.cpp" />
-    <ClCompile Include="03菱形继承问题以及解决方案.cpp" />
-    <ClCompile Include="05多态——计算器案例.cpp" />
-    <ClCompile Include="06抽象类.cpp" />
-    <ClCompile Include="07虚析构和纯虚析构.cpp" />
+    <ClCompile Include="01函数模板的基本语法.cpp" />
+    <ClCompile Include="02函数模板的注意事项.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
