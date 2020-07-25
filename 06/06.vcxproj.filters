@@ -21,5 +21,11 @@
     <ClCompile Include="02函数模板的注意事项.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="03函数模板和普通函数的调用.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="04类模板基本语法.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
